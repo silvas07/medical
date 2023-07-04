@@ -18,3 +18,4 @@ import { CabecalhoComponent } from './componentes/cabecalho/cabecalho.component'
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
